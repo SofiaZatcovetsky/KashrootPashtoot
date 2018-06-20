@@ -41,7 +41,7 @@ h2{
 }
  .navbar   .navbar-nav li a   {
         color: #f7f7f7 !important;
-        font-size:large;
+        font-size:medium;
 
  }
     .navbar .nav-item .dropdown-menu   {
@@ -65,13 +65,13 @@ footer {
     border-radius: 10px;
 }
 .foot{
-    font-size:20px;
+    font-size:18px;
     margin:0px 10px;
 }
 .resize-circle {
     width: 180px;
     height: 180px;
-    margin-top: -50px;
+    margin-top: -20px;
 }
 #RekaYellow {
     margin-top: 200px;
@@ -82,7 +82,7 @@ footer {
     margin-top:-370px;
 }
 p{
-    font-size:large;
+    font-size:18px;
 }
 ::-webkit-scrollbar {
     width: 20px;
@@ -131,13 +131,14 @@ p{
 }
 .q {
     color: azure;
-    font-size:larger;
+    font-size:18px;
 }
     .q:hover {
         color: azure
     }
     .part{
-        font-size:36px;
+        font-size:28px;
+        margin-top:50px;
     }
 .bg-danger {
     background-color: #BC2E3B !important;
@@ -166,7 +167,7 @@ p{
 .answer {
     margin-right: 10px;
     margin-bottom: 2px;
-    font-size:medium;
+    font-size:small;
 }
 .text-danger {
     color: #BC2E3B !important;
@@ -200,7 +201,7 @@ form {
     border:1px solid #3c5794 !important;
 }
 .koteret{
-    font-size:larger;
+    font-size:medium;
 }
 .carousel-inner{
     width:800px;
@@ -259,7 +260,7 @@ form {
 .tabim{
     margin:10px 90px;
     font-weight:bold;
-    font-size:40px;
+    font-size:25px;
     /*text-decoration-line:underline;*/
     border-style:solid;
     border-width:2px;
@@ -281,7 +282,7 @@ li{
     margin-top:100px;
 }
 .under{
-    font-size:x-large;
+    font-size:medium;
     font-weight:bold;
 }
 #line-above {
